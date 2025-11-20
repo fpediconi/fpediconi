@@ -12,7 +12,7 @@ I enjoy understanding systems end-to-end and delivering clean, maintainable solu
 - 🔭 Currently building: **LIA (multi-tenant AI assistant platform)**  
 - 🌱 Improving: integrations, architecture, LLM workflows  
 - 💬 Ask me about: backend design, APIs, automation, TypeScript  
-- 📫 Contact: **fpediconi@gmail.com**
+- 📫 Contact: **franciscopediconi@gmail.com**
 
 ---
 
