@@ -56,7 +56,7 @@ Kotlin · Jetpack Compose · Firebase
 ## 🤝 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/fpediconi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:fpediconi@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:franciscopediconi@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
