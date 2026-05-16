@@ -9,10 +9,11 @@ I build software that solves real problems.
 My focus is on **Node.js**, **TypeScript**, **APIs**, **integrations**, and **scalable SaaS products**.  
 I enjoy understanding systems end-to-end and delivering clean, maintainable solutions.
 
-- 🔭 Currently building: **LIA (multi-tenant AI assistant platform)**  
+- 🔭 Currently building: **Conexy (multi-tenant AI assistant platform)**  
 - 🌱 Improving: integrations, architecture, LLM workflows  
 - 💬 Ask me about: backend design, APIs, automation, TypeScript  
 - 📫 Contact: **franciscopediconi@gmail.com**
+- 💼 Portfolio: https://francisco.conexy.com.ar
 
 ---
 
@@ -37,19 +38,6 @@ I enjoy understanding systems end-to-end and delivering clean, maintainable solu
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fpediconi&theme=tokyo-night&hide_border=true" />
 </div>
-
----
-
-## 🛠️ Featured Projects
-### 🔹 LIA – AI Conversational Engine (SaaS)
-Multi-tenant conversational platform:  
-Node.js · Fastify · Prisma · LLMs · WhatsApp API · PostgreSQL
-
-### 🔹 PetHero – Pet Hosting Platform
-Angular 18 · C# Minimal APIs · Authentication · Bookings · Payments
-
-### 🔹 HouseholdStock – Inventory Mobile App  
-Kotlin · Jetpack Compose · Firebase
 
 ---
 
